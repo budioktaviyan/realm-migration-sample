@@ -1,2 +1,2 @@
-# realm-migration-sample
+# Realm Migration Sample
 Sample Realm Migration for Android
