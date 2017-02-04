@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Realm Migration Sample</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_age">Age</string>
+    <string name="btn_save">Save</string>
+</resources>
